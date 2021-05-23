@@ -1,3 +1,12 @@
 <resources>
+    <string name="last_place_toast">You are already on the last place</string>
+    <string name="first_place_toast">You are already on the first place</string>
     <string name="app_name">Pirate Places</string>
+    <string name="previous_button">Previous</string>
+    <string name="next_button">Next</string>
+    <string name="place_text">place</string>
+    <string name="Joyner">Joyner</string>
+    <string name="College_Hill">College Hill</string>
+    <string name="West_End">West End</string>
+    <string name="Dowdy_Ficklen">Dowdy Ficklen Stadium</string>
 </resources>
