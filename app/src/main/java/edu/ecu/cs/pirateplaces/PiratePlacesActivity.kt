@@ -18,6 +18,7 @@ class PiratePlacesActivity : AppCompatActivity() {
         Place(R.string.Dowdy_Ficklen),
         Place(R.string.Joyner))
 
+
     private var currentIndex = 0
 
     override fun onCreate(savedInstanceState: Bundle?) {
