@@ -4,9 +4,18 @@
     <string name="app_name">Pirate Places</string>
     <string name="previous_button">Previous</string>
     <string name="next_button">Next</string>
-    <string name="place_text">place</string>
+    <string name="people_text">people</string>
+
+    // places
     <string name="Joyner">Joyner</string>
     <string name="College_Hill">College Hill</string>
     <string name="West_End">West End</string>
     <string name="Dowdy_Ficklen">Dowdy Ficklen Stadium</string>
+
+    // names
+    <string name="names1">Jordan, Connor, Anna</string>
+    <string name="names2">Rebecca, Kyle, Josh</string>
+    <string name="names3">Sarah, Hannah, Jason</string>
+    <string name="names4">Michael, Bryan, Sue</string>
 </resources>
+
