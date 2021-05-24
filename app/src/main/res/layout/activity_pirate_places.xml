@@ -9,8 +9,8 @@
     android:gravity="center"
     android:orientation="vertical">
 
-    <TextView
-        android:id="@+id/places"
+    <Button
+        android:id="@+id/places_button"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:padding="24dp"

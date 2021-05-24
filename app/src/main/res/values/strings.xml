@@ -5,6 +5,9 @@
     <string name="previous_button">Previous</string>
     <string name="next_button">Next</string>
     <string name="people_text">people</string>
+    <string name = "check_in_button">Check in!</string>
+    <string name = "not_checked_in">Not checked in.</string>
+    <string name = "checked_in">Checked in</string>
 
     // places
     <string name="Joyner">Joyner</string>
